@@ -1,0 +1,1472 @@
+{
+  "MLOps": [
+    {
+      "task": "Récapitulatif Final",
+      "done": false
+    },
+    {
+      "task": "C'est quoi?",
+      "done": false
+    },
+    {
+      "task": "fiabilité, performance et disponibilité",
+      "done": false
+    },
+    {
+      "task": "Responsabilités:",
+      "done": false
+    },
+    {
+      "task": "Compétences:",
+      "done": false
+    },
+    {
+      "task": "Golang",
+      "done": false
+    },
+    {
+      "task": "Pourquoi?",
+      "done": false
+    },
+    {
+      "task": "pipelines CI/CD",
+      "done": false
+    },
+    {
+      "task": "Python + Golang",
+      "done": false
+    },
+    {
+      "task": "infrastructure cloud",
+      "done": false
+    },
+    {
+      "task": "AWS OU Azure OU GCP",
+      "done": false
+    },
+    {
+      "task": "DevOps au ML",
+      "done": false
+    },
+    {
+      "task": "Python",
+      "done": false
+    },
+    {
+      "task": "DevOps",
+      "done": false
+    },
+    {
+      "task": "Cloud",
+      "done": false
+    },
+    {
+      "task": "MLOps",
+      "done": false
+    },
+    {
+      "task": "Particularités:",
+      "done": false
+    },
+    {
+      "task": "Légende:",
+      "done": false
+    },
+    {
+      "task": "DevOps Prerequisite",
+      "done": false
+    },
+    {
+      "task": "Docker Beginners",
+      "done": false
+    },
+    {
+      "task": "Kubernetes Beginners",
+      "done": false
+    },
+    {
+      "task": "Linux Beginners",
+      "done": false
+    },
+    {
+      "task": "AWS Cloud Practitioner",
+      "done": false
+    },
+    {
+      "task": "Interview Prep",
+      "done": false
+    },
+    {
+      "task": "Git Beginners",
+      "done": false
+    },
+    {
+      "task": "Prometheus PCA",
+      "done": false
+    },
+    {
+      "task": "Terraform",
+      "done": false
+    },
+    {
+      "task": "Total:",
+      "done": false
+    },
+    {
+      "task": "4 paths (⭐⭐⭐⭐):",
+      "done": false
+    },
+    {
+      "task": "3 paths (⭐⭐⭐):",
+      "done": false
+    },
+    {
+      "task": "2 paths (⭐⭐):",
+      "done": false
+    },
+    {
+      "task": "1 path (⭐):",
+      "done": false
+    },
+    {
+      "task": "Gain",
+      "done": false
+    },
+    {
+      "task": "Progression:",
+      "done": false
+    },
+    {
+      "task": "Cloud Engineer",
+      "done": false
+    },
+    {
+      "task": "AZ-104",
+      "done": false
+    },
+    {
+      "task": "AWS SAA",
+      "done": false
+    },
+    {
+      "task": "AWS AI Practitioner",
+      "done": false
+    },
+    {
+      "task": "SRE seul:",
+      "done": false
+    },
+    {
+      "task": "SRE + DevOps:",
+      "done": false
+    },
+    {
+      "task": "SRE + DevOps + Cloud:",
+      "done": false
+    },
+    {
+      "task": "Les 4 paths:",
+      "done": false
+    },
+    {
+      "task": "⏱️ Durée:",
+      "done": false
+    },
+    {
+      "task": "💰 Salaires:",
+      "done": false
+    },
+    {
+      "task": "📚 Total:",
+      "done": false
+    },
+    {
+      "task": "🎯 Certif:",
+      "done": false
+    },
+    {
+      "task": "FastAPI",
+      "done": false
+    },
+    {
+      "task": "ESSENTIEL MLOps",
+      "done": false
+    },
+    {
+      "task": "Fundamentals MLOps",
+      "done": false
+    },
+    {
+      "task": "🎯 PRIORITÉ ABSOLUE!",
+      "done": false
+    },
+    {
+      "task": "PyTorch",
+      "done": false
+    },
+    {
+      "task": "Framework moderne",
+      "done": false
+    },
+    {
+      "task": "🎓 Canada/UK",
+      "done": false
+    },
+    {
+      "task": "SageMaker",
+      "done": false
+    },
+    {
+      "task": "Platform ML",
+      "done": false
+    },
+    {
+      "task": "AI-900",
+      "done": false
+    },
+    {
+      "task": "🎓 Azure AI",
+      "done": false
+    },
+    {
+      "task": "AI-102",
+      "done": false
+    },
+    {
+      "task": "🎓 MAJEURE Suisse",
+      "done": false
+    },
+    {
+      "task": "Intro OpenAI",
+      "done": false
+    },
+    {
+      "task": "Prompt Engineering",
+      "done": false
+    },
+    {
+      "task": "Skill 2025",
+      "done": false
+    },
+    {
+      "task": "LangChain",
+      "done": false
+    },
+    {
+      "task": "ESSENTIEL!",
+      "done": false
+    },
+    {
+      "task": "Mastering GenAI",
+      "done": false
+    },
+    {
+      "task": "Expertise complète",
+      "done": false
+    },
+    {
+      "task": "AI Agents",
+      "done": false
+    },
+    {
+      "task": "Trend 2025!",
+      "done": false
+    },
+    {
+      "task": "Local LLMs Ollama",
+      "done": false
+    },
+    {
+      "task": "Alternative gratuite",
+      "done": false
+    },
+    {
+      "task": "Vector Databases",
+      "done": false
+    },
+    {
+      "task": "Infra RAG",
+      "done": false
+    },
+    {
+      "task": "Pattern ESSENTIEL!",
+      "done": false
+    },
+    {
+      "task": "### Mois 2: Cloud ML\n- AWS: SageMaker\n- Azure: AI-900 + AI-102",
+      "done": false
+    },
+    {
+      "task": "TOTAL",
+      "done": false
+    },
+    {
+      "task": "|\n\n### 🎯 Résultat Final",
+      "done": false
+    },
+    {
+      "task": "- ✅ Site Reliability Engineer\n- ✅ DevOps Engineer  \n- ✅ Cloud Engineer (multi-cloud)\n- ✅ AI/MLOps Engineer",
+      "done": false
+    },
+    {
+      "task": "Certifications:",
+      "done": false
+    },
+    {
+      "task": "Salaire potentiel:",
+      "done": false
+    },
+    {
+      "task": "155-200k CHF",
+      "done": false
+    },
+    {
+      "task": "£120-180k",
+      "done": false
+    },
+    {
+      "task": "200-240k CAD",
+      "done": false
+    },
+    {
+      "task": "Employabilité:",
+      "done": false
+    },
+    {
+      "task": "Tu as maintenant:",
+      "done": false
+    },
+    {
+      "task": "Prochaines étapes:",
+      "done": false
+    },
+    {
+      "task": "Bon apprentissage! 🚀",
+      "done": false
+    },
+    {
+      "task": "Document créé le:",
+      "done": false
+    },
+    {
+      "task": "Version:",
+      "done": false
+    },
+    {
+      "task": "Ordre:",
+      "done": false
+    },
+    {
+      "task": "🎯 Certifications:",
+      "done": false
+    },
+    {
+      "task": "DevOps Prerequisite course",
+      "done": false
+    },
+    {
+      "task": "Linux for Beginners",
+      "done": false
+    },
+    {
+      "task": "Git for Beginners",
+      "done": false
+    },
+    {
+      "task": "Python API Development with FastAPI",
+      "done": false
+    },
+    {
+      "task": "Docker",
+      "done": false
+    },
+    {
+      "task": "Kubernetes",
+      "done": false
+    },
+    {
+      "task": "🎓 CERTIFICATION",
+      "done": false
+    },
+    {
+      "task": "PRIORITÉ!",
+      "done": false
+    },
+    {
+      "task": "### Phase 7: AI Cloud",
+      "done": false
+    },
+    {
+      "task": "### Phase 8: LLMs Fondations",
+      "done": false
+    },
+    {
+      "task": "⭐⭐⭐\n\n### Phase 9: LLMs Advanced",
+      "done": false
+    },
+    {
+      "task": "⭐⭐\n\n### Phase 10: AI Infrastructure",
+      "done": false
+    },
+    {
+      "task": "### Phase 11: DevOps ML",
+      "done": false
+    },
+    {
+      "task": "### Phase 12: IaC",
+      "done": false
+    },
+    {
+      "task": "⭐⭐⭐\n\n---\n\n# 🚀\n\n### Phase 1: Fondations\n\n#### 1. DevOps Prerequisite course\n-",
+      "done": false
+    },
+    {
+      "task": "5h\n-",
+      "done": false
+    },
+    {
+      "task": "⭐⭐⭐ ESSENTIEL\n\n#### 2. Fundamentals of DevOps\n-",
+      "done": false
+    },
+    {
+      "task": "⭐⭐ Culture\n\n#### 3. Linux for Beginners\n-",
+      "done": false
+    },
+    {
+      "task": "25h\n-",
+      "done": false
+    },
+    {
+      "task": "⭐⭐⭐ ESSENTIEL\n\n#### 4. Git for Beginners\n-",
+      "done": false
+    },
+    {
+      "task": "⭐⭐⭐ ESSENTIEL\n\n---\n\n### Phase 2: Programmation SRE 🔥 GO PRIORITAIRE!\n\n#### 5. Golang ⭐⭐⭐\n-",
+      "done": false
+    },
+    {
+      "task": "⭐⭐⭐ PRIORITÉ #1 pour SRE\n-",
+      "done": false
+    },
+    {
+      "task": "Durée:",
+      "done": false
+    },
+    {
+      "task": "Priorité:",
+      "done": false
+    },
+    {
+      "task": "🎓 Certification MAJEURE",
+      "done": false
+    },
+    {
+      "task": "💻 Tu coderas:",
+      "done": false
+    },
+    {
+      "task": "OUI - Ansible Playbooks YAML!",
+      "done": false
+    },
+    {
+      "task": "OUI - PromQL + Alerting!",
+      "done": false
+    },
+    {
+      "task": "🎓 Certification ESSENTIELLE SRE",
+      "done": false
+    },
+    {
+      "task": "🎓 Certification recommandée",
+      "done": false
+    },
+    {
+      "task": "🎓 Certification ESSENTIELLE si Suisse",
+      "done": false
+    },
+    {
+      "task": "Mois 1-2: Fondations + Go",
+      "done": false
+    },
+    {
+      "task": "Semaine 4: 🔥 TU CODES GO! Cours #5",
+      "done": false
+    },
+    {
+      "task": "Mois 3-4: Kubernetes",
+      "done": false
+    },
+    {
+      "task": "Mois 5: Automation + Observability",
+      "done": false
+    },
+    {
+      "task": "Semaines 14-15: 🔥 PROMQL! Cours #11",
+      "done": false
+    },
+    {
+      "task": "Mois 6-7: Cloud + Polish",
+      "done": false
+    },
+    {
+      "task": "Total: 5-7 mois → PRÊT POUR SRE!",
+      "done": false
+    },
+    {
+      "task": "⏱️ Durée totale",
+      "done": false
+    },
+    {
+      "task": "6-8 mois",
+      "done": false
+    },
+    {
+      "task": "📚 Nombre de cours",
+      "done": false
+    },
+    {
+      "task": "26 cours",
+      "done": false
+    },
+    {
+      "task": "🎯 Time to job",
+      "done": false
+    },
+    {
+      "task": "12+ mois",
+      "done": false
+    },
+    {
+      "task": "💰 Salaires moyens",
+      "done": false
+    },
+    {
+      "task": "90-160k CHF",
+      "done": false
+    },
+    {
+      "task": "£70-120k",
+      "done": false
+    },
+    {
+      "task": "120-240k CAD",
+      "done": false
+    },
+    {
+      "task": "LE PLUS HAUT!",
+      "done": false
+    },
+    {
+      "task": "📈 Demande marché",
+      "done": false
+    },
+    {
+      "task": "Croissance 35%",
+      "done": false
+    },
+    {
+      "task": "💻 Tu coderas dès",
+      "done": false
+    },
+    {
+      "task": "Semaine 3",
+      "done": false
+    },
+    {
+      "task": "Programmation ML:",
+      "done": false
+    },
+    {
+      "task": "Python avancé",
+      "done": false
+    },
+    {
+      "task": "NumPy/Pandas",
+      "done": false
+    },
+    {
+      "task": "MLOps Pipeline:",
+      "done": false
+    },
+    {
+      "task": "ML lifecycle",
+      "done": false
+    },
+    {
+      "task": "Experiment tracking",
+      "done": false
+    },
+    {
+      "task": "Model versioning",
+      "done": false
+    },
+    {
+      "task": "Feature stores",
+      "done": false
+    },
+    {
+      "task": "LLMs & GenAI:",
+      "done": false
+    },
+    {
+      "task": "OpenAI APIs",
+      "done": false
+    },
+    {
+      "task": "Prompt engineering",
+      "done": false
+    },
+    {
+      "task": "Vector databases",
+      "done": false
+    },
+    {
+      "task": "Infrastructure ML:",
+      "done": false
+    },
+    {
+      "task": "AWS SageMaker",
+      "done": false
+    },
+    {
+      "task": "Azure ML",
+      "done": false
+    },
+    {
+      "task": "GitHub Actions",
+      "done": false
+    },
+    {
+      "task": "AWS Certified AI Practitioner",
+      "done": false
+    },
+    {
+      "task": "AI-102: Azure AI Engineer Associate",
+      "done": false
+    },
+    {
+      "task": "Durée totale:",
+      "done": false
+    },
+    {
+      "task": "19 cours",
+      "done": false
+    },
+    {
+      "task": "Fundamentals of MLOps",
+      "done": false
+    },
+    {
+      "task": "PRIORITÉ ABSOLUE",
+      "done": false
+    },
+    {
+      "task": "CERTIFICATION",
+      "done": false
+    },
+    {
+      "task": "AI-900: Microsoft Azure AI Fundamental",
+      "done": false
+    },
+    {
+      "task": "AI-102: Microsoft Azure AI Engineer Associate",
+      "done": false
+    },
+    {
+      "task": "CERTIFICATION Avancée",
+      "done": false
+    },
+    {
+      "task": "Introduction to OpenAI",
+      "done": false
+    },
+    {
+      "task": "Prompt Engineering Fundamentals",
+      "done": false
+    },
+    {
+      "task": "GenAI Learning with GitHub Copilot",
+      "done": false
+    },
+    {
+      "task": "ESSENTIEL Applications LLM",
+      "done": false
+    },
+    {
+      "task": "Mastering Generative AI with OpenAI",
+      "done": false
+    },
+    {
+      "task": "Running Local LLMs With Ollama",
+      "done": false
+    },
+    {
+      "task": "NVIDIA Generative AI with LLMs Professional Certificate",
+      "done": false
+    },
+    {
+      "task": "Vector Databases (Pinecone/Weaviate)",
+      "done": false
+    },
+    {
+      "task": "RAG (Retrieval Augmented Generation)",
+      "done": false
+    },
+    {
+      "task": "Azure OpenAI Service",
+      "done": false
+    },
+    {
+      "task": "Vertex AI on GCP",
+      "done": false
+    },
+    {
+      "task": "AWS re:Invent sessions (AI/ML tracks)",
+      "done": false
+    },
+    {
+      "task": "n8n: Zero to Hero",
+      "done": false
+    },
+    {
+      "task": "Salaires:",
+      "done": false
+    },
+    {
+      "task": "Priorités:",
+      "done": false
+    },
+    {
+      "task": "AZ-400",
+      "done": false
+    },
+    {
+      "task": "Terraform Associate",
+      "done": false
+    },
+    {
+      "task": "AWS Solutions Architect Associate",
+      "done": false
+    },
+    {
+      "task": "AWS DevOps Engineer Professional",
+      "done": false
+    },
+    {
+      "task": "CKAD",
+      "done": false
+    },
+    {
+      "task": "Azure certifications",
+      "done": false
+    },
+    {
+      "task": "Durée estimée:",
+      "done": false
+    },
+    {
+      "task": "Mois 1-2: DevOps Essentials (si gaps)",
+      "done": false
+    },
+    {
+      "task": "Mois 2-3: Kubernetes",
+      "done": false
+    },
+    {
+      "task": "CKA - Kubernetes Administrator",
+      "done": false
+    },
+    {
+      "task": "Mois 3-4: MLOps Core",
+      "done": false
+    },
+    {
+      "task": "Mois 4-5: Cloud ML",
+      "done": false
+    },
+    {
+      "task": "Mois 5-6: Advanced AI",
+      "done": false
+    },
+    {
+      "task": "Mois 6-7: Production",
+      "done": false
+    },
+    {
+      "task": "Labs pratiques hands-on",
+      "done": false
+    },
+    {
+      "task": "Formule réaliste:",
+      "done": false
+    },
+    {
+      "task": "2 mois",
+      "done": false
+    },
+    {
+      "task": "5 mois",
+      "done": false
+    },
+    {
+      "task": "4 mois",
+      "done": false
+    },
+    {
+      "task": "Docker + Kubernetes Beginners",
+      "done": false
+    },
+    {
+      "task": "Jenkins",
+      "done": false
+    },
+    {
+      "task": "GitLab CI/CD",
+      "done": false
+    },
+    {
+      "task": "ArgoCD",
+      "done": false
+    },
+    {
+      "task": "Suivre l'ordre logique des phases",
+      "done": false
+    },
+    {
+      "task": "Ne pas skip les labs pratiques",
+      "done": false
+    },
+    {
+      "task": "Compléter les mock exams",
+      "done": false
+    },
+    {
+      "task": "Pratiquer en parallèle",
+      "done": false
+    },
+    {
+      "task": "Cibler les certifications valorisées",
+      "done": false
+    },
+    {
+      "task": "Combiner paths",
+      "done": false
+    },
+    {
+      "task": "Prioriser certifications",
+      "done": false
+    },
+    {
+      "task": "Skip optionnels",
+      "done": false
+    },
+    {
+      "task": "Accélérer fondations",
+      "done": false
+    },
+    {
+      "task": "Créé le:",
+      "done": false
+    },
+    {
+      "task": "Source:",
+      "done": false
+    },
+    {
+      "task": "Validé:",
+      "done": false
+    },
+    {
+      "task": "⏱️ Time to job:",
+      "done": false
+    },
+    {
+      "task": "📊 Demande:",
+      "done": false
+    },
+    {
+      "task": "🎯 Certifications clés:",
+      "done": false
+    },
+    {
+      "task": "DÉJÀ FAIT",
+      "done": false
+    },
+    {
+      "task": "Contenu:",
+      "done": false
+    },
+    {
+      "task": "🎯 À FAIRE EN PREMIER après fondations",
+      "done": false
+    },
+    {
+      "task": "🎓 Certification recommandée si Suisse",
+      "done": false
+    },
+    {
+      "task": "🎓 Certification majeure Suisse",
+      "done": false
+    },
+    {
+      "task": "Si Cloud + DevOps DÉJÀ FAIT → Focus AI/ML (3-4 mois):",
+      "done": false
+    },
+    {
+      "task": "Mois 1: MLOps Core + Cloud AI",
+      "done": false
+    },
+    {
+      "task": "Mois 2: Cloud ML Avancé",
+      "done": false
+    },
+    {
+      "task": "Mois 3: LLMs & GenAI",
+      "done": false
+    },
+    {
+      "task": "Mois 4: Infrastructure & RAG",
+      "done": false
+    },
+    {
+      "task": "Total nouveau:",
+      "done": false
+    },
+    {
+      "task": "3-4 mois",
+      "done": false
+    },
+    {
+      "task": "#1 Cloud Engineer",
+      "done": false
+    },
+    {
+      "task": "#2 DevOps Engineer",
+      "done": false
+    },
+    {
+      "task": "#3 SRE",
+      "done": false
+    },
+    {
+      "task": "#4 AI/MLOps",
+      "done": false
+    },
+    {
+      "task": "|\n\n---\n\n## 🎯 Stratégie Optimale selon Marché Cible\n\n### 🇨🇭 Pour Suisse",
+      "done": false
+    },
+    {
+      "task": "- Focus Azure\n   - AZ-900 → AZ-104 → AZ-400\n2.",
+      "done": false
+    },
+    {
+      "task": "- CKA + ArgoCD\n3.",
+      "done": false
+    },
+    {
+      "task": "- AI-102 Azure + MLOps",
+      "done": false
+    },
+    {
+      "task": "- AZ-104 (Microsoft Azure Administrator) ⭐⭐⭐\n- CKA (Kubernetes Administrator) ⭐⭐⭐\n- AZ-400 (Azure DevOps) ⭐⭐\n- AI-102 (Azure AI Engineer) ⭐⭐",
+      "done": false
+    },
+    {
+      "task": "6-8 mois\n\n---\n\n### 🇬🇧 Pour Londres (UK)",
+      "done": false
+    },
+    {
+      "task": "- Focus AWS\n   - AWS Cloud Practitioner → AWS SAA\n2.",
+      "done": false
+    },
+    {
+      "task": "- CKA + GitHub Actions\n3.",
+      "done": false
+    },
+    {
+      "task": "- Fintech demand forte",
+      "done": false
+    },
+    {
+      "task": "- AWS Solutions Architect Associate ⭐⭐⭐\n- CKA (Kubernetes Administrator) ⭐⭐⭐\n- Prometheus PCA ⭐⭐\n- AWS DevOps Engineer ⭐",
+      "done": false
+    },
+    {
+      "task": "6-9 mois\n\n---\n\n### 🇨🇦 Pour Vancouver (Canada)",
+      "done": false
+    },
+    {
+      "task": "- AWS base\n2.",
+      "done": false
+    },
+    {
+      "task": "- SALAIRES LES PLUS ÉLEVÉS (120-240k CAD)\n3.",
+      "done": false
+    },
+    {
+      "task": "- Support MLOps",
+      "done": false
+    },
+    {
+      "task": "Pour job le PLUS RAPIDE (3-4 mois):",
+      "done": false
+    },
+    {
+      "task": "Cloud Engineer uniquement",
+      "done": false
+    },
+    {
+      "task": "Pour profile COMPLET (6-9 mois):",
+      "done": false
+    },
+    {
+      "task": "Pour SALAIRES MAX (9-12 mois):",
+      "done": false
+    },
+    {
+      "task": "Top 3 certifications universelles:",
+      "done": false
+    },
+    {
+      "task": "Cours optionnels à sauter:",
+      "done": false
+    },
+    {
+      "task": "Optimisé pour:",
+      "done": false
+    },
+    {
+      "task": "**Récapitulatif Final** - Tableau complet",
+      "done": false
+    },
+    {
+      "task": "SRE (15) → 100%",
+      "done": false
+    },
+    {
+      "task": "DevOps (20) → 50% fait = 10 nouveaux",
+      "done": false
+    },
+    {
+      "task": "Cloud (29) → 31% fait = 20 nouveaux",
+      "done": false
+    },
+    {
+      "task": "MLOps (26) → 42% fait = 15 nouveaux",
+      "done": false
+    },
+    {
+      "task": "**CKA** ⭐⭐⭐",
+      "done": false
+    },
+    {
+      "task": "**AZ-104** ⭐⭐⭐",
+      "done": false
+    },
+    {
+      "task": "**Prometheus PCA** ⭐⭐",
+      "done": false
+    },
+    {
+      "task": "**AWS SAA** ⭐⭐⭐",
+      "done": false
+    },
+    {
+      "task": "AWS DevOps Pro",
+      "done": false
+    },
+    {
+      "task": "**AWS AI Practitioner** ⭐⭐⭐",
+      "done": false
+    },
+    {
+      "task": "**AWS SAA** ⭐⭐",
+      "done": false
+    },
+    {
+      "task": "Choisis ton path de départ (SRE recommandé)",
+      "done": false
+    },
+    {
+      "task": "Inscris-toi KodeKloud",
+      "done": false
+    },
+    {
+      "task": "Commence cours #1",
+      "done": false
+    },
+    {
+      "task": "Fais TOUS les labs",
+      "done": false
+    },
+    {
+      "task": "Crée projets portfolio",
+      "done": false
+    },
+    {
+      "task": "Passe certifications",
+      "done": false
+    },
+    {
+      "task": "Applique jobs!",
+      "done": false
+    },
+    {
+      "task": "**AWS Certified AI Practitioner** ⭐⭐ (Canada/UK)",
+      "done": false
+    },
+    {
+      "task": "**AI-102: Azure AI Engineer Associate** ⭐⭐⭐ (Suisse)",
+      "done": false
+    },
+    {
+      "task": "**CKA** - Kubernetes Administrator ⭐⭐",
+      "done": false
+    },
+    {
+      "task": "**Fundamentals of MLOps** - 7h ⭐ **PRIORITÉ ABSOLUE**",
+      "done": false
+    },
+    {
+      "task": "**PyTorch** - 4h",
+      "done": false
+    },
+    {
+      "task": "**AWS Certified AI Practitioner** - 7h ⭐ **CERTIFICATION**",
+      "done": false
+    },
+    {
+      "task": "**AI-900: Microsoft Azure AI Fundamental** - 14h ⭐ **CERTIFICATION**",
+      "done": false
+    },
+    {
+      "task": "**AI-102: Microsoft Azure AI Engineer Associate** - 23h ⭐ **CERTIFICATION Avancée**",
+      "done": false
+    },
+    {
+      "task": "**Introduction to OpenAI** - 5h",
+      "done": false
+    },
+    {
+      "task": "**Prompt Engineering Fundamentals** - 2h",
+      "done": false
+    },
+    {
+      "task": "**GenAI Learning with GitHub Copilot** - 3h",
+      "done": false
+    },
+    {
+      "task": "**LangChain** - 13h ⭐ **ESSENTIEL Applications LLM**",
+      "done": false
+    },
+    {
+      "task": "**Mastering Generative AI with OpenAI** - 16h",
+      "done": false
+    },
+    {
+      "task": "**AI Agents** - 7h",
+      "done": false
+    },
+    {
+      "task": "**Running Local LLMs With Ollama** - 5h",
+      "done": false
+    },
+    {
+      "task": "**NVIDIA Generative AI with LLMs Professional Certificate** - 12h",
+      "done": false
+    },
+    {
+      "task": "**Vector Databases (Pinecone/Weaviate)** - 3h",
+      "done": false
+    },
+    {
+      "task": "**RAG (Retrieval Augmented Generation)** - 6h",
+      "done": false
+    },
+    {
+      "task": "**Azure OpenAI Service** - 4h",
+      "done": false
+    },
+    {
+      "task": "**Vertex AI on GCP** - 3h",
+      "done": false
+    },
+    {
+      "task": "**AWS re:Invent sessions (AI/ML tracks)** - 5h",
+      "done": false
+    },
+    {
+      "task": "**n8n: Zero to Hero** - 8h",
+      "done": false
+    },
+    {
+      "task": "**CKA** - Certified Kubernetes Administrator",
+      "done": false
+    },
+    {
+      "task": "**AZ-104** - Azure Administrator (Azure dominant en Suisse)",
+      "done": false
+    },
+    {
+      "task": "**AZ-400** - Azure DevOps Solutions",
+      "done": false
+    },
+    {
+      "task": "**Terraform Associate** - HashiCorp",
+      "done": false
+    },
+    {
+      "task": "**PCA** - Prometheus Certified Associate",
+      "done": false
+    },
+    {
+      "task": "**AI-102** - Azure AI Engineer (émergent)",
+      "done": false
+    },
+    {
+      "task": "**AWS Solutions Architect Associate** (AWS dominant)",
+      "done": false
+    },
+    {
+      "task": "**AWS DevOps Engineer Professional**",
+      "done": false
+    },
+    {
+      "task": "**Terraform Associate**",
+      "done": false
+    },
+    {
+      "task": "**PCA** - Prometheus (SRE)",
+      "done": false
+    },
+    {
+      "task": "**CKAD** - Kubernetes Application Developer",
+      "done": false
+    },
+    {
+      "task": "**AWS Solutions Architect Associate**",
+      "done": false
+    },
+    {
+      "task": "**AWS Certified AI Practitioner** ⭐ **Croissance 35%**",
+      "done": false
+    },
+    {
+      "task": "**Fundamentals of MLOps** (essentiel pour MLOps roles)",
+      "done": false
+    },
+    {
+      "task": "**Azure certifications** (croissance)",
+      "done": false
+    },
+    {
+      "task": "✅ **Suivre l'ordre logique des phases** (fondations → avancé)",
+      "done": false
+    },
+    {
+      "task": "✅ **Ne pas skip les labs pratiques** (valeur principale de KodeKloud)",
+      "done": false
+    },
+    {
+      "task": "✅ **Compléter les mock exams** avant les certifications",
+      "done": false
+    },
+    {
+      "task": "✅ **Pratiquer en parallèle** sur projets personnels",
+      "done": false
+    },
+    {
+      "task": "✅ **Cibler les certifications valorisées** selon marché visé",
+      "done": false
+    },
+    {
+      "task": "✅ Cours #4: Python FastAPI",
+      "done": false
+    },
+    {
+      "task": "✅ Cours #8: Fundamentals of MLOps ⭐⭐⭐ PRIORITÉ",
+      "done": false
+    },
+    {
+      "task": "✅ Cours #9: PyTorch",
+      "done": false
+    },
+    {
+      "task": "✅ Cours #11: AWS AI Practitioner → **CERTIFICATION**",
+      "done": false
+    },
+    {
+      "task": "✅ Cours #12: AWS SageMaker",
+      "done": false
+    },
+    {
+      "task": "✅ Alternative: Cours #13-14: AI-900 + AI-102 Azure si Suisse",
+      "done": false
+    },
+    {
+      "task": "✅ Cours #15-16: OpenAI + Prompt Engineering",
+      "done": false
+    },
+    {
+      "task": "✅ Cours #18: LangChain ⭐⭐⭐",
+      "done": false
+    },
+    {
+      "task": "✅ Cours #19: Mastering GenAI OpenAI ⭐⭐⭐",
+      "done": false
+    },
+    {
+      "task": "✅ Cours #20: AI Agents",
+      "done": false
+    },
+    {
+      "task": "✅ Cours #21: Local LLMs Ollama",
+      "done": false
+    },
+    {
+      "task": "✅ Cours #22-23: Vector DB + RAG",
+      "done": false
+    },
+    {
+      "task": "**Cloud Engineer** - Focus Azure",
+      "done": false
+    },
+    {
+      "task": "**DevOps Engineer** - CKA + ArgoCD",
+      "done": false
+    },
+    {
+      "task": "**AI/MLOps** - AI-102 Azure + MLOps",
+      "done": false
+    },
+    {
+      "task": "**Cloud Engineer** - Focus AWS",
+      "done": false
+    },
+    {
+      "task": "**DevOps Engineer** - CKA + GitHub Actions",
+      "done": false
+    },
+    {
+      "task": "**SRE** - Fintech demand forte",
+      "done": false
+    },
+    {
+      "task": "**Cloud Engineer** - AWS base",
+      "done": false
+    },
+    {
+      "task": "**AI/MLOps** - SALAIRES LES PLUS ÉLEVÉS (120-240k CAD)",
+      "done": false
+    },
+    {
+      "task": "**DevOps** - Support MLOps",
+      "done": false
+    },
+    {
+      "task": "✅ Faire **Cloud Engineer uniquement**",
+      "done": false
+    },
+    {
+      "task": "✅ Focus: AWS Cloud Practitioner + AWS SAA",
+      "done": false
+    },
+    {
+      "task": "✅ Alternative Suisse: AZ-900 + AZ-104",
+      "done": false
+    },
+    {
+      "task": "✅ Cloud Engineer (3-4 mois)",
+      "done": false
+    },
+    {
+      "task": "✅ DevOps Engineer (+2-3 mois)",
+      "done": false
+    },
+    {
+      "task": "✅ SRE (+1 semaine) - Presque gratuit après DevOps!",
+      "done": false
+    },
+    {
+      "task": "✅ AI/MLOps (+3-4 mois) → 120-240k CAD possible!",
+      "done": false
+    },
+    {
+      "task": "**CKA** - Kubernetes Administrator",
+      "done": false
+    },
+    {
+      "task": "**AWS SAA** OU **AZ-104**",
+      "done": false
+    },
+    {
+      "task": "**Prometheus PCA** (SRE/DevOps) OU **AWS AI Practitioner** (MLOps)",
+      "done": false
+    },
+    {
+      "task": "33.3%!",
+      "done": false
+    },
+    {
+      "task": "492h",
+      "done": false
+    },
+    {
+      "task": "~1,280h",
+      "done": false
+    },
+    {
+      "task": "13-18 mois",
+      "done": false
+    },
+    {
+      "task": "60 uniques",
+      "done": false
+    },
+    {
+      "task": "698.8h",
+      "done": false
+    },
+    {
+      "task": "~1,262h",
+      "done": false
+    },
+    {
+      "task": "9-12 mois",
+      "done": false
+    }
+  ],
+  "devops": {
+    "12 Factor App": {
+      "completed": false,
+      "comment": ""
+    },
+    "DevOps Prerequisite course": {
+      "completed": false,
+      "comment": ""
+    }
+  },
+  "sre": [
+    {
+      "task": "Kubernetes Troubleshooting for Application Developers",
+      "done": false
+    },
+    {
+      "task": "Git for Beginners",
+      "done": false
+    },
+    {
+      "task": "Linux for Beginners",
+      "done": false
+    },
+    {
+      "task": "DevOps Prerequisite course",
+      "done": false
+    },
+    {
+      "task": "Istio Service Mesh",
+      "done": false
+    }
+  ]
+}
