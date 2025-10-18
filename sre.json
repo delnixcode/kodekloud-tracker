@@ -1,0 +1,320 @@
+{
+  "name": "Site Reliability Engineer (SRE)",
+  "description": "Un SRE garantit la fiabilité, performance et disponibilité des systèmes en production 24/7.",
+  "duree_mois": "7-8",
+  "cours_total": 33,
+  "video_heures": 320,
+  "labs_heures": 250,
+  "salaires": {
+    "usd": "$155,000",
+    "chf": "110-155k",
+    "gbp": "£80-140k",
+    "cad": "100-160k CAD"
+  },
+  "competences": [
+    "Golang (priorité #1)",
+    "Observability (Prometheus, Grafana)",
+    "Kubernetes administration",
+    "Automation (Ansible, scripting)",
+    "Incident management"
+  ],
+  "cours": [
+    {
+      "titre": "DevOps Prerequisite course",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/devops-pre-requisite-course/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Git for Beginners",
+      "duree": "1h 15m",
+      "lien": "https://kodekloud.com/courses/git-for-beginners/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Linux for Beginners",
+      "duree": "5h 15m",
+      "lien": "https://kodekloud.com/courses/the-linux-basics-course/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Golang",
+      "duree": "4h 15m",
+      "lien": "https://kodekloud.com/courses/golang/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Certified Python Entry‑Level Programmer (Recommended)",
+      "duree": "1h 30m",
+      "lien": "https://kodekloud.com/courses/certified-python-entry-level-programmer-pcep/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Docker for Absolute Beginners (Optional)",
+      "duree": "4h",
+      "lien": "https://kodekloud.com/courses/docker-for-the-absolute-beginner/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Certified Kubernetes Administrator (CKA)",
+      "duree": "20h 30m",
+      "lien": "https://kodekloud.com/courses/certified-kubernetes-administrator-cka/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "12 Factor App",
+      "duree": "45m",
+      "lien": "https://kodekloud.com/courses/12-factor-app/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "DevOps Prerequisite course [DOUBLON - 🏗️ Fondamentaux]",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/devops-pre-requisite-course/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Linux for Beginners [DOUBLON - 🏗️ Fondamentaux]",
+      "duree": "5h 15m",
+      "lien": "https://kodekloud.com/courses/the-linux-basics-course/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Docker for Absolute Beginners [DOUBLON - 🏗️ Fondamentaux]",
+      "duree": "4h",
+      "lien": "https://kodekloud.com/courses/docker-for-the-absolute-beginner/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kubernetes for Beginners",
+      "duree": "4h 30m",
+      "lien": "https://kodekloud.com/courses/kubernetes-for-the-absolute-beginner/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS EKS",
+      "duree": "3h 45m",
+      "lien": "https://kodekloud.com/courses/aws-eks/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Helm for Beginners",
+      "duree": "2h 15m",
+      "lien": "https://kodekloud.com/courses/helm-for-beginners/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Istio Service Mesh",
+      "duree": "3h 30m",
+      "lien": "https://kodekloud.com/courses/istio-service-mesh/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kubernetes Networking Deep Dive",
+      "duree": "2h 45m",
+      "lien": "https://kodekloud.com/courses/kubernetes-networking-deep-dive/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kustomize",
+      "duree": "1h 30m",
+      "lien": "https://kodekloud.com/courses/kustomize/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "EFK Stack: Enterprise‑Grade Logging and Monitoring",
+      "duree": "4h 15m",
+      "lien": "https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Learn By Doing: Deploying and Managing the EFK Stack on Kubernetes",
+      "duree": "3h",
+      "lien": "https://kodekloud.com/courses/learn-by-doing-deploying-and-managing-the-efk-stack-on-kubernetes/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Learn By Doing: Kubernetes Policies with Kyverno",
+      "duree": "2h 30m",
+      "lien": "https://kodekloud.com/courses/learn-by-doing-kubernetes-policies-with-kyverno/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kubernetes Administration: Package Management with Glasskube",
+      "duree": "1h 45m",
+      "lien": "https://kodekloud.com/courses/kubernetes-administration-package-management-with-glasskube/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Prometheus Certified Associate (PCA)",
+      "duree": "6h 45m",
+      "lien": "https://kodekloud.com/courses/prometheus-certified-associate-pca/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Grafana Loki",
+      "duree": "2h",
+      "lien": "https://kodekloud.com/courses/grafana-loki/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kubernetes Troubleshooting for Application Developers",
+      "duree": "3h 15m",
+      "lien": "https://kodekloud.com/courses/kubernetes-troubleshooting-for-application-developers/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Telepresence For Kubernetes",
+      "duree": "1h 30m",
+      "lien": "https://kodekloud.com/courses/telepresence-for-kubernetes/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kubernetes Autoscaling",
+      "duree": "2h 15m",
+      "lien": "https://kodekloud.com/courses/kubernetes-autoscaling/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kubernetes and Cloud Native Security Associate (KCSA)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/kubernetes-and-cloud-native-security-associate-kcsa/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Ansible for Beginners",
+      "duree": "2h 45m",
+      "lien": "https://kodekloud.com/courses/ansible-for-beginners/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Prometheus Certified Associate (PCA) [DOUBLON - 📊 Observabilité & Monitoring]",
+      "duree": "6h 45m",
+      "lien": "https://kodekloud.com/courses/prometheus-certified-associate-pca/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS Cloud Practitioner Certification",
+      "duree": "10h 30m",
+      "lien": "https://kodekloud.com/courses/aws-cloud-practitioner-certification/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AZ‑104: Microsoft Azure Administrator (Recommended)",
+      "duree": "13h",
+      "lien": "https://kodekloud.com/courses/az-104-microsoft-azure-administrator/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "GCP Digital Cloud Leader",
+      "duree": "4h",
+      "lien": "https://kodekloud.com/courses/gcp-digital-cloud-leader/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "DevOps Interview Preparation Course",
+      "duree": "5h 30m",
+      "lien": "https://kodekloud.com/courses/devops-interview-preparation-course/",
+      "completed": false,
+      "comment": ""
+    }
+  ],
+  "phases": [
+    {
+      "nom": "🏗️ Fondamentaux",
+      "cours": [
+        "DevOps Prerequisite course",
+        "Git for Beginners",
+        "Linux for Beginners",
+        "Golang",
+        "Certified Python Entry‑Level Programmer (Recommended)",
+        "Docker for Absolute Beginners (Optional)"
+      ]
+    },
+    {
+      "nom": "☸️ Kubernetes Core",
+      "cours": [
+        "Certified Kubernetes Administrator (CKA)",
+        "12 Factor App",
+        "DevOps Prerequisite course [DOUBLON - 🏗️ Fondamentaux]",
+        "Linux for Beginners [DOUBLON - 🏗️ Fondamentaux]",
+        "Docker for Absolute Beginners [DOUBLON - 🏗️ Fondamentaux]",
+        "Kubernetes for Beginners",
+        "AWS EKS",
+        "Helm for Beginners"
+      ]
+    },
+    {
+      "nom": "🔧 Kubernetes Avancé",
+      "cours": [
+        "Istio Service Mesh",
+        "Kubernetes Networking Deep Dive",
+        "Kustomize",
+        "EFK Stack: Enterprise‑Grade Logging and Monitoring",
+        "Learn By Doing: Deploying and Managing the EFK Stack on Kubernetes",
+        "Learn By Doing: Kubernetes Policies with Kyverno",
+        "Kubernetes Administration: Package Management with Glasskube"
+      ]
+    },
+    {
+      "nom": "📊 Observabilité & Monitoring",
+      "cours": [
+        "Prometheus Certified Associate (PCA)",
+        "Grafana Loki",
+        "Kubernetes Troubleshooting for Application Developers",
+        "Telepresence For Kubernetes",
+        "Kubernetes Autoscaling"
+      ]
+    },
+    {
+      "nom": "🔒 Sécurité Kubernetes",
+      "cours": ["Kubernetes and Cloud Native Security Associate (KCSA)"]
+    },
+    {
+      "nom": "⚙️ Automation & Cloud",
+      "cours": [
+        "Ansible for Beginners",
+        "Prometheus Certified Associate (PCA) [DOUBLON - 📊 Observabilité & Monitoring]",
+        "AWS Cloud Practitioner Certification",
+        "AZ‑104: Microsoft Azure Administrator (Recommended)",
+        "GCP Digital Cloud Leader"
+      ]
+    },
+    {
+      "nom": "🎯 Carrière",
+      "cours": ["DevOps Interview Preparation Course"]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "name": "AI/MLOps Engineer",
+  "description": "Un MLOps Engineer applique les pratiques DevOps au machine learning pour déployer et monitorer les modèles en production.",
+  "duree_mois": "5",
+  "cours_total": 15,
+  "video_heures": 200,
+  "labs_heures": 550,
+  "salaires": {
+    "usd": "$160,000",
+    "chf": "90-160k",
+    "gbp": "£70-120k",
+    "cad": "120-240k CAD"
+  },
+  "competences": [
+    "Python (100% du temps)",
+    "PyTorch / TensorFlow",
+    "ML lifecycle (MLflow, Kubeflow)",
+    "Kubernetes + Docker",
+    "LLMs & GenAI (LangChain, RAG)",
+    "Cloud ML (SageMaker, Azure ML)"
+  ],
+  "cours": [
+    {
+      "titre": "Introduction to OpenAI",
+      "duree": "4h 10m",
+      "lien": "https://kodekloud.com/courses/introduction-to-openai",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Learn by Doing - Prompt Engineering 101",
+      "duree": "5h 0m",
+      "lien": "https://kodekloud.com/courses/learn-by-doing-prompt-engineering-101",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AI-Assisted Development",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/ai-assisted-development",
+      "completed": false,
+      "comment": " "
+    },
+    {
+      "titre": "DevOps Prerequisite course",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/devops-pre-requisite-course/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Linux for Beginners",
+      "duree": "5h 15m",
+      "lien": "https://kodekloud.com/courses/the-linux-basics-course/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Git for Beginners",
+      "duree": "1h 15m",
+      "lien": "https://kodekloud.com/courses/git-for-beginners/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Python API Development with FastAPI",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/python-api-development-with-fastapi/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Docker for Absolute Beginners",
+      "duree": "4h",
+      "lien": "https://kodekloud.com/courses/docker-for-absolute-beginners/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kubernetes for Beginners",
+      "duree": "6h",
+      "lien": "https://kodekloud.com/courses/kubernetes-for-beginners/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Certified Kubernetes Administrator (CKA)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/certified-kubernetes-administrator-cka/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Fundamentals of MLOps",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/fundamentals-of-mlops/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "PyTorch",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/pytorch/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS Cloud Practitioner Certification",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-cloud-practitioner-certification/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS Certified AI Practitioner",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-certified-ai-practitioner/",
+      "completed": false,
+      "comment": ""
+    }
+  ],
+  "phases": [
+    {
+      "nom": "AI Basics",
+      "cours": ["Introduction to OpenAI", "Learn by Doing - Prompt Engineering 101", "AI-Assisted Development"]
+    },
+    {
+      "nom": "Fondations",
+      "cours": ["DevOps Prerequisite course", "Linux for Beginners", "Git for Beginners"]
+    },
+    {
+      "nom": "Python ML",
+      "cours": ["Python API Development with FastAPI"]
+    },
+    {
+      "nom": "Containers",
+      "cours": ["Docker for Absolute Beginners", "Kubernetes for Beginners"]
+    },
+    {
+      "nom": "K8s Admin",
+      "cours": ["Certified Kubernetes Administrator (CKA)"]
+    },
+    {
+      "nom": "MLOps Core",
+      "cours": ["Fundamentals of MLOps", "PyTorch"]
+    },
+    {
+      "nom": "Cloud",
+      "cours": ["AWS Cloud Practitioner Certification", "AWS Certified AI Practitioner"]
+    }
+  ]
+}

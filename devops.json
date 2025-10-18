@@ -1,0 +1,329 @@
+{
+  "name": "DevOps Engineer",
+  "description": "Un DevOps Engineer automatise et accélère le cycle de développement logiciel avec des pipelines CI/CD et de l'infrastructure as code.",
+  "duree_mois": "8-9",
+  "cours_total": 30,
+  "video_heures": 350,
+  "labs_heures": 280,
+  "salaires": {
+    "usd": "$125,937",
+    "chf": "90-140k",
+    "gbp": "£60-100k",
+    "cad": "90-140k CAD"
+  },
+  "competences": [
+    "Python + Golang",
+    "CI/CD (GitHub Actions, Jenkins)",
+    "Infrastructure as Code (Terraform, Ansible)",
+    "Kubernetes + Docker",
+    "GitOps (ArgoCD)"
+  ],
+  "cours": [
+    {
+      "titre": "DevOps Prerequisite course",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/devops-pre-requisite-course/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Linux for Beginners",
+      "duree": "5h 15m",
+      "lien": "https://kodekloud.com/courses/the-linux-basics-course/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Shell Scripting for Beginners",
+      "duree": "2h 0m",
+      "lien": "https://kodekloud.com/courses/shell-scripts-for-beginners/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Python Basics Course",
+      "duree": "1h 30m",
+      "lien": "https://kodekloud.com/courses/python-basics-course/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Git for Beginners",
+      "duree": "1h 15m",
+      "lien": "https://kodekloud.com/courses/git-for-beginners/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Docker for Absolute Beginners",
+      "duree": "4h 0m",
+      "lien": "https://kodekloud.com/courses/docker-for-the-absolute-beginner/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kubernetes for Beginners",
+      "duree": "6h 0m",
+      "lien": "https://kodekloud.com/courses/kubernetes-for-beginners/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS EKS",
+      "duree": "3h 45m",
+      "lien": "https://kodekloud.com/courses/aws-eks/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Helm for Beginners",
+      "duree": "2h 15m",
+      "lien": "https://kodekloud.com/courses/helm-for-beginners/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Istio Service Mesh",
+      "duree": "3h 30m",
+      "lien": "https://kodekloud.com/courses/istio-service-mesh/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kubernetes Networking Deep Dive",
+      "duree": "2h 45m",
+      "lien": "https://kodekloud.com/courses/kubernetes-networking-deep-dive/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kustomize",
+      "duree": "1h 30m",
+      "lien": "https://kodekloud.com/courses/kustomize/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "EFK Stack: Enterprise‑Grade Logging and Monitoring",
+      "duree": "4h 15m",
+      "lien": "https://kodekloud.com/courses/efk-stack-enterprise-grade-logging-and-monitoring/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Learn By Doing: Deploying and Managing the EFK Stack on Kubernetes",
+      "duree": "3h",
+      "lien": "https://kodekloud.com/courses/learn-by-doing-deploying-and-managing-the-efk-stack-on-kubernetes/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Learn By Doing: Kubernetes Policies with Kyverno",
+      "duree": "2h 30m",
+      "lien": "https://kodekloud.com/courses/learn-by-doing-kubernetes-policies-with-kyverno/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kubernetes Administration: Package Management with Glasskube",
+      "duree": "1h 45m",
+      "lien": "https://kodekloud.com/courses/kubernetes-administration-package-management-with-glasskube/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Prometheus Certified Associate (PCA)",
+      "duree": "6h 45m",
+      "lien": "https://kodekloud.com/courses/prometheus-certified-associate-pca/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Grafana Loki",
+      "duree": "2h",
+      "lien": "https://kodekloud.com/courses/grafana-loki/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kubernetes Troubleshooting for Application Developers",
+      "duree": "3h 15m",
+      "lien": "https://kodekloud.com/courses/kubernetes-troubleshooting-for-application-developers/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Telepresence For Kubernetes",
+      "duree": "1h 30m",
+      "lien": "https://kodekloud.com/courses/telepresence-for-kubernetes/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kubernetes Autoscaling",
+      "duree": "2h 15m",
+      "lien": "https://kodekloud.com/courses/kubernetes-autoscaling/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kubernetes and Cloud Native Security Associate (KCSA)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/kubernetes-and-cloud-native-security-associate-kcsa/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Terraform for Beginners",
+      "duree": "4h 45m",
+      "lien": "https://kodekloud.com/courses/terraform-for-beginners/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Ansible for Beginners (Playbooks & Automation)",
+      "duree": "2h 45m",
+      "lien": "https://kodekloud.com/courses/ansible-for-beginners/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Infrastructure as Code Best Practices",
+      "duree": "3h 0m",
+      "lien": "https://kodekloud.com/courses/infrastructure-as-code-best-practices/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "CI/CD with Jenkins",
+      "duree": "4h 20m",
+      "lien": "https://kodekloud.com/courses/jenkins-for-beginners/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "GitLab CI/CD Pipelines",
+      "duree": "3h 0m",
+      "lien": "https://kodekloud.com/courses/gitlab-ci-cd-pipelines/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "CircleCI Pipelines Basics",
+      "duree": "2h 0m",
+      "lien": "https://kodekloud.com/courses/circleci-pipelines-basics/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Monitoring with Prometheus",
+      "duree": "4h 0m",
+      "lien": "https://kodekloud.com/courses/monitoring-with-prometheus/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "ELK Stack Fundamentals",
+      "duree": "3h 0m",
+      "lien": "https://kodekloud.com/courses/elk-stack-fundamentals/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "GitOps with Argo CD",
+      "duree": "6h 0m",
+      "lien": "https://kodekloud.com/courses/gitops-with-argocd/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "DevOps Interview Preparation Course",
+      "duree": "5h 30m",
+      "lien": "https://kodekloud.com/courses/devops-interview-preparation-course/",
+      "completed": false,
+      "comment": ""
+    }
+  ],
+  "phases": [
+    {
+      "nom": "🏗️ Fondamentaux DevOps",
+      "cours": ["DevOps Prerequisite course"]
+    },
+    {
+      "nom": "🐧 Linux & Scripting",
+      "cours": [
+        "Linux for Beginners",
+        "Shell Scripts for Beginners"
+      ]
+    },
+    {
+      "nom": "💻 Programmation",
+      "cours": ["Python Basics Course"]
+    },
+    {
+      "nom": "� Version Control",
+      "cours": ["Git for Beginners"]
+    },
+    {
+      "nom": "🔄 CI/CD Pipelines",
+      "cours": [
+        "CI/CD with Jenkins",
+        "GitLab CI/CD Pipelines",
+        "CircleCI Pipelines Basics"
+      ]
+    },
+    {
+      "nom": "🐳 Containers",
+      "cours": ["Docker for Absolute Beginners"]
+    },
+    {
+      "nom": "☸️ Kubernetes Core",
+      "cours": [
+        "Kubernetes for Beginners",
+        "AWS EKS",
+        "Helm for Beginners"
+      ]
+    },
+    {
+      "nom": "🏗️ Infrastructure as Code",
+      "cours": [
+        "Terraform for Beginners",
+        "Ansible for Beginners (Playbooks & Automation)",
+        "Infrastructure as Code Best Practices"
+      ]
+    },
+    {
+      "nom": "🔧 Kubernetes Avancé",
+      "cours": [
+        "Istio Service Mesh",
+        "Kubernetes Networking Deep Dive",
+        "Kustomize",
+        "EFK Stack: Enterprise‑Grade Logging and Monitoring",
+        "Learn By Doing: Deploying and Managing the EFK Stack on Kubernetes",
+        "Learn By Doing: Kubernetes Policies with Kyverno",
+        "Kubernetes Administration: Package Management with Glasskube",
+        "Prometheus Certified Associate (PCA)",
+        "Grafana Loki",
+        "Kubernetes Troubleshooting for Application Developers",
+        "Telepresence For Kubernetes",
+        "Kubernetes Autoscaling",
+        "Kubernetes and Cloud Native Security Associate (KCSA)"
+      ]
+    },
+    {
+      "nom": "🚀 GitOps",
+      "cours": ["GitOps with Argo CD"]
+    },
+    {
+      "nom": "📊 Monitoring",
+      "cours": [
+        "Monitoring with Prometheus",
+        "ELK Stack Fundamentals"
+      ]
+    },
+    {
+      "nom": "🎯 Carrière",
+      "cours": ["DevOps Interview Preparation Course"]
+    }
+  ]
+}

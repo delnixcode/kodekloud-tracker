@@ -1,0 +1,224 @@
+{
+  "name": "Cloud Engineer",
+  "description": "Un Cloud Engineer conçoit, déploie et gère l'infrastructure cloud (AWS, Azure, GCP).",
+  "duree_mois": "6-7",
+  "cours_total": 25,
+  "video_heures": 340,
+  "labs_heures": 750,
+  "salaires": {
+    "usd": "$124,000",
+    "chf": "97-160k",
+    "gbp": "£70-110k",
+    "cad": "100-150k CAD"
+  },
+  "competences": [
+    "AWS OU Azure OU GCP (expertise provider)",
+    "Infrastructure as Code (Terraform)",
+    "Networking (VPC, load balancers)",
+    "Kubernetes sur cloud (EKS, AKS, GKE)",
+    "Security & IAM"
+  ],
+  "cours": [
+    {
+      "titre": "DevOps Prerequisite course",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/devops-pre-requisite-course/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Linux for Beginners",
+      "duree": "5h 15m",
+      "lien": "https://kodekloud.com/courses/the-linux-basics-course/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Terraform for Beginners",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/terraform-for-beginners/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS Cloud Practitioner",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-cloud-practitioner/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS IAM (Identity and Access Management)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-iam/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Amazon Elastic Compute Cloud (EC2)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/amazon-elastic-compute-cloud-ec2/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Amazon Simple Storage Service",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/amazon-simple-storage-service/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS RDS (Relational Database Service)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-rds/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS Lambda",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-lambda/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Amazon Elastic Container Service (AWS ECS)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/amazon-elastic-container-service-aws-ecs/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS CodePipeline",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-codepipeline/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS EKS",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-eks/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS Solutions Architect Associate (SAA)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-saa/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AZ-900: Microsoft Azure Fundamentals",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/az900-microsoft-azure-fundamentals/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AZ-104: Microsoft Azure Administrator",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/az-104-microsoft-azure-administrator/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Azure Kubernetes Service (AKS)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/azure-kubernetes-service/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AZ-305: Microsoft Azure Solutions Architect Expert",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/az-305-microsoft-azure-solutions-architect-expert/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AZ-500: Microsoft Azure Security Technologies",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/microsoft-azure-security-technologies-az-500/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "DP-900: Microsoft Azure Data Fundamentals",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/dp-900-microsoft-azure-data-fundamentals/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "GCP Cloud Digital Leader Certification",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/gcp-cloud-digital-leader-certification/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Google Kubernetes Engine (GKE)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/gke-google-kubernetes-engine/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Certified Kubernetes Administrator (CKA)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/certified-kubernetes-administrator-cka/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Certified Kubernetes Application Developer (CKAD)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/certified-kubernetes-application-developer-ckad/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Certified Kubernetes Security Specialist (CKS)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Terraform Cloud",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/terraform-cloud/",
+      "completed": false,
+      "comment": ""
+    }
+  ],
+  "phases": [
+    {
+      "nom": "Fondations",
+      "cours": ["DevOps Prerequisite course", "Linux for Beginners"]
+    },
+    {
+      "nom": "Infrastructure as Code",
+      "cours": ["Terraform for Beginners", "Terraform Cloud"]
+    },
+    {
+      "nom": "AWS Cloud",
+      "cours": ["AWS Cloud Practitioner", "AWS IAM (Identity and Access Management)", "Amazon Elastic Compute Cloud (EC2)", "Amazon Simple Storage Service", "AWS RDS (Relational Database Service)", "AWS Lambda", "Amazon Elastic Container Service (AWS ECS)", "AWS CodePipeline", "AWS EKS", "AWS Solutions Architect Associate (SAA)"]
+    },
+    {
+      "nom": "Azure Cloud",
+      "cours": ["AZ-900: Microsoft Azure Fundamentals", "AZ-104: Microsoft Azure Administrator", "Azure Kubernetes Service (AKS)", "AZ-305: Microsoft Azure Solutions Architect Expert", "AZ-500: Microsoft Azure Security Technologies", "DP-900: Microsoft Azure Data Fundamentals"]
+    },
+    {
+      "nom": "Google Cloud",
+      "cours": ["GCP Cloud Digital Leader Certification", "Google Kubernetes Engine (GKE)"]
+    },
+    {
+      "nom": "Kubernetes Certifications",
+      "cours": ["Certified Kubernetes Administrator (CKA)", "Certified Kubernetes Application Developer (CKAD)", "Certified Kubernetes Security Specialist (CKS)"]
+    }
+  ]
+}

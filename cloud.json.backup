@@ -1,0 +1,186 @@
+{
+  "name": "Cloud Engineer",
+  "description": "Un Cloud Engineer conçoit, déploie et gère l'infrastructure cloud (AWS, Azure, GCP).",
+  "duree_mois": "6-7",
+  "cours_total": 18,
+  "video_heures": 200,
+  "labs_heures": 750,
+  "salaires": {
+    "usd": "$124,000",
+    "chf": "97-160k",
+    "gbp": "£70-110k",
+    "cad": "100-150k CAD"
+  },
+  "competences": [
+    "AWS OU Azure OU GCP (expertise provider)",
+    "Infrastructure as Code (Terraform)",
+    "Networking (VPC, load balancers)",
+    "Kubernetes sur cloud (EKS, AKS, GKE)",
+    "Security & IAM"
+  ],
+  "cours": [
+    {
+      "titre": "DevOps Prerequisite course",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/devops-pre-requisite-course/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Git for Beginners",
+      "duree": "1h 15m",
+      "lien": "https://kodekloud.com/courses/git-for-beginners/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Linux for Beginners",
+      "duree": "5h 15m",
+      "lien": "https://kodekloud.com/courses/the-linux-basics-course/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Docker for Absolute Beginners",
+      "duree": "4h",
+      "lien": "https://kodekloud.com/courses/docker-for-the-absolute-beginner/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Kubernetes for Beginners",
+      "duree": "6h",
+      "lien": "https://kodekloud.com/courses/kubernetes-for-the-absolute-beginner/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS EKS",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-eks/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Azure Kubernetes Service (AKS)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/azure-kubernetes-service-aks/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "Google Kubernetes Engine (GKE)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/google-kubernetes-engine-gke/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS EC2 (Elastic Compute Cloud)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-ec2-elastic-compute-cloud/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS S3 (Simple Storage Service)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-s3-simple-storage-service/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS RDS (Relational Database Service)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-rds-relational-database-service/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS IAM (Identity and Access Management)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-iam-identity-and-access-management/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS Lambda",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-lambda/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS CodePipeline",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-codepipeline/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS CloudFormation",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-cloudformation/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS ECS (Elastic Container Service)",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-ecs-elastic-container-service/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS CloudWatch",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-cloudwatch/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AZ-204: Developing Solutions for Azure",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/az-204-developing-solutions-for-azure/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AWS Certified Developer - Associate",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/aws-certified-developer-associate/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AZ-400: Azure DevOps Solutions",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/az-400-azure-devops-solutions/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AZ-305: Azure Solutions Architect Expert",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/az-305-azure-solutions-architect-expert/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "AZ-500: Azure Security Technologies",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/az-500-azure-security-technologies/",
+      "completed": false,
+      "comment": ""
+    },
+    {
+      "titre": "DevOps Interview Preparation Course",
+      "duree": "6h 30m",
+      "lien": "https://kodekloud.com/courses/devops-interview-preparation-course/",
+      "completed": false,
+      "comment": ""
+    }
+  ],
+  "certifications": ["AWS Solutions Architect Associate", "AZ-104", "AZ-305", "AZ-500"],
+  "time_to_job": "3-4 mois"
+}
